@@ -6,4 +6,3 @@ This workshop serves as an introduction to the fundamentals of the Python progra
 
 For set-up instructions, please refer to the PDF document `Instructions.pdf`
 
-For more information on challenges that you can apply Python web scraping to, visit: https://hackfordemocracy.org/challenges/
